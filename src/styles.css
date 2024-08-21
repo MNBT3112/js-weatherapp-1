@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+box-sizing:border-box;
+
+
+font-size:15px;
+
+}
+
+body{
+margin:0;
+padding:0;
+
+
+
+
+background-image: url("pexels-shotbyrain-3934623.jpg");
+background-position: center;
+
+background-size: cover;
+
+
+
+
+}
+
+#mainBox{
+    height:50%;
+    width:35%;
+    
+     margin:0px auto;
+   margin-top:calc(50% -  )
+
+
+   
+    border:1px solid white;
+
+
+}
+
+
